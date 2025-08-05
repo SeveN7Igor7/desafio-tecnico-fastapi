@@ -69,8 +69,8 @@ Para executar este projeto, você precisará ter o Python e o PostgreSQL instala
 Abra seu terminal (ou PowerShell no Windows) e execute o comando:
 
 ```bash
-git clone <url-do-repositorio>
-cd formularios_api
+git clone https://github.com/SeveN7Igor7/desafio-tecnico-fastapi.git
+cd desafio-tecnico-fastapi
 ```
 
 #### 2. Crie e ative o ambiente virtual
